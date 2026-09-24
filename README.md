@@ -1,10 +1,12 @@
 ## Get to know about Azure 
 - What is Azure?
 - https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure
-![](./images/azurevsaws.png)
+  <img width="1600" height="573" alt="WhatsApp Image 2026-08-24 at 10 48 28 PM" src="https://github.com/user-attachments/assets/83c11744-6bde-449f-b61a-7aab19ed192c" />
 
 
-![](./images/cloudlead.png)
+
+<img width="1522" height="1170" alt="WhatsApp Image 2026-08-24 at 10 48 30 PM" src="https://github.com/user-attachments/assets/030a9ec1-cb15-4005-b751-fb2971fad3ff" />
+
 
 
 
@@ -16,9 +18,14 @@
 - **Model as a service (MaaS)** delivers machine learning models as serverless APIs for simplified app deployment.
 
 ## Azure Portal walkthrough
-![](./images/Azure.png)
-![](./images/Azure2.png)
-![](./images/Azure3.png)
+<img width="1470" height="825" alt="WhatsApp Image 2026-09-24 at 12 25 46 PM" src="https://github.com/user-attachments/assets/69da1733-2ea9-45fe-a182-78d93ee3c4f4" />
+
+<img width="1600" height="939" alt="WhatsApp Image 2026-09-24 at 12 25 50 PM" src="https://github.com/user-attachments/assets/21689dd7-e400-430b-97f5-bdd883980e56" />
+
+
+
+<img width="1386" height="1060" alt="WhatsApp Image 2026-09-24 at 12 25 54 PM" src="https://github.com/user-attachments/assets/79d16e5d-b88b-457e-8d43-5fc2908a9327" />
+
 
 
 ## Active Azure Regions in India
